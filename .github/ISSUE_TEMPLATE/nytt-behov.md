@@ -1,6 +1,6 @@
 ---
 name: Nytt behov
-about: Meldt et nytt behov her
+about: Meld et nytt behov her
 title: "[NYTT BEHOV]"
 labels: behov
 assignees: ''
